@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+dapstone.so
+dapstone.dylib
+dapstone.dll
+dapstone.a
+libdapstone.a
+dapstone.lib
+dapstone-test-*
+*.exe
+*.o
+*.obj
+*.lst
