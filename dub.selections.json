@@ -1,6 +1,7 @@
 {
 	"fileVersion": 1,
 	"versions": {
-		"capstone-d": "0.0.1"
+		"capstone-d": "0.0.1",
+		"d-capstone": "0.0.2"
 	}
 }

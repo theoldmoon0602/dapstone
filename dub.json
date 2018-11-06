@@ -7,7 +7,7 @@
 	"copyright": "Copyright © 2018, theoldmoon0602",
 	"license": "MIT",
   "dependencies": {
-    "capstone-d": "~>0.0.1"
+    "d-capstone": "~>0.0.1"
   },
   "targetType": "library"
 }
